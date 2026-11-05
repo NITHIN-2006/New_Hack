@@ -1,0 +1,9 @@
+{
+  "name": "AIDO",
+  "description": "A service marketplace platform that connects verified service providers (AIDMATES) with service seekers in their local communities, with a core philosophy of 'PEOPLE FOR PEOPLE'.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
